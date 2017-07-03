@@ -1,0 +1,33 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/zulu/AndroidStudioProjects/" . "MyApplication/")
+ ("/Users/zulu/" . "AndroidStudioProjects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/zulu/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/zulu/emacs-bin/neotree/" (22849 22577 0 0) "test/" "screenshots/" "README.md" "neotree.el" "Makefile" "LICENSE" "icons/" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/zulu/.emacs.d/" (22848 25196 0 0) "init.el" "ido.last" "emacs-color-theme-solarized/" "auto-save-list/" "ac-dict/" "ac-comphist.dat" ".gitignore" ".git/" "#init.el#" "../" "./")
+
+ ("/Users/zulu/AndroidStudioProjects/MyApplication/" (22434 46201 0 0) "settings.gradle" "MyApplication.iml" "local.properties" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "build.gradle" "app/" ".idea/" ".gitignore" "../" "./")
+
+ ("/Users/zulu/AndroidStudioProjects/" (22434 46173 0 0) "MyApplication/" "../" "./")
+
+ ("/Users/zulu/" (22847 63675 0 0) "screenlog.0" "README.md" "Public/" "Pictures/" "out.txt" "Music/" "Movies/" "Library/" "iMeet/" "Downloads/" "Documents/" "dev/" "Desktop/" "config.gateway.json" "Conferencing/" "Applications/" "AndroidStudioProjects/" ".viminfo" ".Trash/" ".swt/" ".subversion/" ".ssh/" ".oracle_jre_usage/" ".npm/" ".jssc/" ".gradle/" ".gitconfig" ".git/" ".emacs.d/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".android/" "#test#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
