@@ -1,4 +1,4 @@
-DOTFILES="https://github.com/CPWeaver/dotfiles.git"
+DOTFILES="https://github.com/zdiubaldo/dotfiles.git"
 CMDS="git vim"
 
 # Check for necessary commands
